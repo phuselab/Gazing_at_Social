@@ -3,7 +3,7 @@
 ***Alessandro D'Amelio¹, Giuseppe Boccignone¹***  
 ¹ [PHuSe Lab](https://phuselab.di.unimi.it) - Dipartimento di Informatica, Università degli Studi di Milano  
 
-**Paper** D'Amelio, A., & Boccignone, G. (2021). Gazing at social interactions between foraging and decision theory. Frontiers in Neurorobotics, 15, 31.
+**Paper** D'Amelio, A., & Boccignone, G. (2021). [Gazing at social interactions between foraging and decision theory](https://www.frontiersin.org/articles/10.3389/fnbot.2021.639999/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Neurorobotics&id=639999). Frontiers in Neurorobotics, 15, 31.
 
 ![simulation](simulation.gif "Model Simulation")
 
